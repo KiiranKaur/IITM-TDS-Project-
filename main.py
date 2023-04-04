@@ -7,5 +7,5 @@ elif b>c and b>a:
     print(b,"is largest")
 elif c>a and c>b:
     print(c,"is largest")
-elif a=b=c:
+elif a==b==c:
     print("all are equal")
